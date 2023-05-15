@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.fe6a728c.chunk.css",
+    "main.js": "/test/static/js/main.d40468a7.chunk.js",
+    "main.js.map": "/test/static/js/main.d40468a7.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.3de03378.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.3de03378.js.map",
+    "static/js/2.a1b6f89e.chunk.js": "/test/static/js/2.a1b6f89e.chunk.js",
+    "static/js/2.a1b6f89e.chunk.js.map": "/test/static/js/2.a1b6f89e.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.fe6a728c.chunk.css.map": "/test/static/css/main.fe6a728c.chunk.css.map",
+    "static/js/2.a1b6f89e.chunk.js.LICENSE.txt": "/test/static/js/2.a1b6f89e.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/test/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/test/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/test/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de03378.js",
+    "static/js/2.a1b6f89e.chunk.js",
+    "static/css/main.fe6a728c.chunk.css",
+    "static/js/main.d40468a7.chunk.js"
+  ]
+}
